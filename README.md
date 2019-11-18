@@ -27,7 +27,7 @@
 
 -> Mise à jour de la base de données avec Composer (Migrations) 
 
--> Requêtes pour l'affichage des statistiques du site en Back Office (, Jointures entre tables et calculs, encodage JSON)
+-> Requêtes pour l'affichage des statistiques du site en Back Office (Jointures entre tables et calculs, encodage JSON)
 
 -> Requête pour les recherches d'articles sur le site
 
