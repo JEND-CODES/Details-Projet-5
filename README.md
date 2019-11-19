@@ -6,7 +6,7 @@
 
 -> Controller, Entité, FormType, Repositories
 
--> Système CRUD
+-> Système CRUD (via Doctrine)
 
 -> Création et validation de formulaires
 
@@ -22,21 +22,34 @@
 
 -> Pages sécurisées, protégées par mot de passe
 
+-> Intégration de l'éditeur TinyMce
+
 
 # SQL
 
--> Mise à jour de la base de données avec Composer (Migrations) 
+-> Mise à jour de la base de données avec Composer (Migrations, clés étrangères) 
 
 -> Requêtes pour l'affichage des statistiques du site en Back Office (Jointures entre tables et calculs, encodage JSON)
 
--> Requête pour les recherches d'articles sur le site
+-> Requête pour les recherches d'articles sur le site (par mots-clés)
 
 
-# jQuery
+# Javascript & jQuery
+
+-> Programmation de datavisualisations
 
 -> Pagination des commentaires sur chaque article
 
 -> Animations (divers)
+
+-> Initialisation et options de l'éditeur TinyMce
+
+
+# Html / Css
+
+-> Réglages responsive
+
+-> Corrections pour validation W3C
 
 
 # Vue.js 
