@@ -63,7 +63,7 @@
 
 -> Composants responsive (Slider, Navbar, Navigation Drawer, Cards, Footer, Scroll on top, icons, buttons...)
 
--> Animations (Hover, Expand, Transition, Pop-up, v:bind, v-if/else, Tabs interactives, Typography...)
+-> Animations (Hover, Expand, Transition, Pop-up, v:bind, v-if/else, Tabs interactives, Typography, Flip cards...)
 
 -> Responsive Design ($.breakpoints, v-row, v-flex, v-layout, v-flex, v-if/else...)
 
@@ -74,7 +74,7 @@
 
 -> Traitements des formats : CSV, JSON, API
 
--> Connexion AJAX ou FETCH() pour les données API
+-> Connexion AJAX ou FETCH() pour les données API et filtrage par mots clés
 
 -> Contrôle des options des graphiques en Back Office
 
