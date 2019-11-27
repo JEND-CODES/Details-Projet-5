@@ -1,4 +1,5 @@
 # Avancées projet 5
+Consulter les fichiers -> https://github.com/JEND-CODES/Graphs-projet-5
 
 # Symfony
 
@@ -36,18 +37,26 @@
 
 # Javascript & jQuery
 
--> Programmation de datavisualisations
+-> Programmation de datavisualisations (Highcharts, Chart.js et Leaflet Map)
 
 -> Pagination des commentaires sur chaque article
 
 -> Animations (divers)
 
+-> Vignettes de sélection des types de graphiques (méthode .val())
+
 -> Initialisation et options de l'éditeur TinyMce
+
+-> Refactorisation pour la présentation du projet
+
+-> Ajout de constantes pour alléger les codes des graphiques
+
+-> Création de fonctions "Design" injectées dans les options Highcharts
 
 
 # Html / Css
 
--> Réglages responsive
+-> Réglages responsive, indentations
 
 -> Corrections pour validation W3C
 
@@ -72,18 +81,20 @@
 
 -> Injections de données SQL dans les codes JS
 
--> Traitements des formats : CSV, JSON, API
+-> Traitements des formats : CSV, JSON, API Web
 
--> Connexion AJAX ou FETCH() pour les données API et filtrage par mots clés
+-> Connexion fetch(url) pour les données API et filtrages par mots clés
 
 -> Contrôle des options des graphiques en Back Office
 
--> Possibilité d'afficher au moins 6 graphiques par article (et + ??)
+-> Possibilité d'afficher 6 graphiques par article
+
+-> 10 types de graphiques préétablis pour afficher des données différentes
 
 
 # Démos (charts ou map non dynamiques) 
 
 -> Carte Leaflet avec données de géolocalisations (fichier CSV)
 
--> Charts.js : 2 graphiques programmés avec la méthode FETCH()
+-> Charts.js : 2 graphiques programmés avec la méthode fetch()
 
