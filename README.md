@@ -53,6 +53,8 @@ Consulter les fichiers -> https://github.com/JEND-CODES/Graphs-projet-5
 
 -> Création de fonctions "Design" injectées dans les options Highcharts
 
+-> Highcharts.setOptions : configuration globale pour tous les graphiques
+
 
 # Html / Css
 
